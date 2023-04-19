@@ -10,7 +10,7 @@ function Intro() {
             <p className='text-base 
             md:text-xl mb-3 
             font-medium'>iOS Developer & Computer Science Student</p>
-            <p className='test-sm max-w-xl mb-6 
+            <p className='text-sm max-w-xl mb-6 
             font-bold'>I’m a sophomore studying Computer Science at UT Austin 
             and an independent iOS developer with experience in Swift
              (UIKit, SwiftUI, Core Data), Flutter and React Native. 
