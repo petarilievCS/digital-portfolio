@@ -2,7 +2,7 @@ export default [
     {
         title: "Caffeine Up",
         imgUrl: '/assets/Coffee.png',
-        stack: ['Swift', 'UIKit', 'Core Data'],
+        stack: ['Swift', 'UIKit', 'Core Data', 'SwiftUI'],
         link: 'https://github.com/petarilievCS/Caffeine-Tracker'
     },
     {
@@ -14,25 +14,25 @@ export default [
     {
         title: "Fit Scanner",
         imgUrl: '/assets/Food.png',
-        stack: ['Swift', 'UIKit', 'CoreML'],
+        stack: ['Swift', 'Image Recognition', 'CoreML'],
         link: 'https://github.com/petarilievCS/Food-Recognizer'
     },
     {
         title: "ParkScape",
-        imgUrl: '/assets/ParkScape.png',
-        stack: ['Flask', 'AWS', 'Docker'],
+        imgUrl: '/assets/Yosemite.jpeg',
+        stack: ['Flask', 'AWS', 'Docker', 'MySQL'],
         link: 'https://www.parkscape.me'
     },
     {
         title: "Developer Portfolio",
-        imgUrl: '/assets/Personal.png',
+        imgUrl: '/assets/Website.png',
         stack: ['React', 'Vite', 'Tailwind'],
         link: ''
     },
     {
         title: "Trading Orderbook",
         imgUrl: '/assets/Trading.jpeg',
-        stack: ['C++', 'Trading Algorithms', 'HFT'],
-        link: ''
+        stack: ['C#', 'Trading Algorithms', 'HFT'],
+        link: 'https://github.com/petarilievCS/Trading-Engine'
     },
 ]
