@@ -4,14 +4,14 @@ export default [
         title: "Software Engineer Intern",
         duration: "3 months",
         details:
-            "I'm currently interning at ServiceNow as a Software Engineer Intern on the iOS Engineering team. I'm working on the ServiceNow Moible Platform and I'm learning more about Swift, SwiftUI, UIKit and Cocoa Pods."
+            "I'm currently interning at ServiceNow as a Software Engineer Intern on the iOS Engineering team. I'm working on the ServiceNow Mobile Platform, and I'm learning more about Swift, SwiftUI, UIKit and Cocoa Pods."
     },
     {
         year: "Today",
         title: "Independent iOS Developer",
         duration: "1 year",
         details:
-            "I'm a solo independent iOS developer who is profficient in Swift (UIKit, SwiftUI, CoreData), Flutter and Firebase. I have developed and published 3 apps on the App Store and I'm looking to expand my skillset and develop more apps."
+            "I'm a solo independent iOS developer who is proficient in Swift (UIKit, SwiftUI, Core Data), Flutter and Firebase. I have developed and published three apps on the App Store and I'm looking to expand my skillset and develop more apps."
     },
     {
         year: "2022",
