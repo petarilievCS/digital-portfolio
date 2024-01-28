@@ -24,9 +24,9 @@ export default [
         link: 'https://www.parkscape.me'
     },
     {
-        title: "Developer Portfolio",
+        title: "Parallel Algorithms",
         imgUrl: '/assets/Website.png',
-        stack: ['React', 'Vite', 'Tailwind'],
+        stack: ['C/C++', 'pThreads', 'Tailwind'],
         link: ''
     },
     {

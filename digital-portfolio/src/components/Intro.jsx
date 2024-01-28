@@ -9,13 +9,12 @@ function Intro() {
             font-bold'>Petar Iliev</h1>
             <p className='text-base 
             md:text-xl mb-3 
-            font-medium'>iOS Developer • SWE Intern @ ServiceNow • CS @ UT Austin</p>
+            font-medium'>Software Engineer Intern @ Apple | CS @ UT Austin</p>
             <p className='text-sm max-w-xl mb-6 
             font-bold'>
-                I'm a computer science student at UT Austin and an independent iOS developer with a strong interest in FinTech.
-                I'm currently interning as a Software Engineer Intern on the Mobile Platform (iOS) team at ServiceNow.
-                I specialize in Swift (UIKit, SwiftUI, CoreData), but I'm also proficient in Python, C++, Flutter and AWS.
-                Lastly, I enjoy going to competitive programming contests and developing my own iOS apps (three of which are on the App Store).</p>
+                I'm a computer science student at UT Austin, incoming Software Engineer Intern at Apple, and an independent iOS developer.
+                I specialize in Swift (UIKit & SwiftUI), but I'm also proficient in Python, C/C++ and AWS.
+                Outside of iOS development, I'm also interested in data science, backend development and competitive programming.</p>
         </div>
     )
 }
